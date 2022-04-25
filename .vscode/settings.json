@@ -1,0 +1,13 @@
+{
+  "editor.quickSuggestionsDelay": 100000,
+  "editor.hover.enabled": true,
+  "editor.quickSuggestions": false,
+  "[json]": {
+
+    "editor.quickSuggestions": {
+      "strings": true
+    },
+    "editor.suggest.insertMode": "replace"
+  },
+  "editor.padding.bottom": 100
+}
